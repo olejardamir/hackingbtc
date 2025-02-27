@@ -6,7 +6,7 @@
 
 
 
-*Explore how big numbers, secret keys, and magical math keep our treasures safe!*
+*Let's gather our crayons and color in the “Certicom secp256k1” curve with these magical numbers!*
 
 ---
 
