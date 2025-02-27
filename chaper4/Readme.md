@@ -1,5 +1,9 @@
 # The Curious Fox and the Ever-Changing Patterns
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chaper4/chapter4.webp?raw=true" width="500">
+</p>
+
 ## Introduction
 
 In a deep and misty forest, where the trees whispered secrets and the rivers hummed melodies, there lived a fox named **Quirin**. Quirin wasn’t like the other foxes who spent their days hunting and playing. Instead, he had a special gift—he could see patterns in everything.
@@ -58,8 +62,4 @@ The quill drew a pattern **so perfect** that the Sacred Grove **shimmered with g
 
 The forest rejoiced, for the Sacred Grove had finally shared its secret. And from that day forward, the Enchanted Quill continued its work, forever painting perfect patterns, all thanks to the brilliant mind of a little fox who saw the world in ways no one else could.
 
----
 
-## The Moral of the Story
-
-With patience, curiosity, and the willingness to adjust and refine, even the most complex puzzles can be solved. Just like Quirin, we must **test, learn, and improve**, always searching for the perfect pattern hidden within the world around us.
