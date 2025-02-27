@@ -1,5 +1,9 @@
 # The Magical Tale of the Ever-Growing Library
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter3/chapter3.png?raw=true" width="500">
+</p>
+
 Once upon a time, in a land where knowledge shimmered like stars, there stood a grand library called the **Transformer Archives**. This library was not built of bricks and mortar, but of glowing scrolls filled with letters and numbers that changed and danced with every passing day.
 
 At the heart of the Transformer Archives worked a devoted caretaker named **Modeller**. Each day, Modeller ventured out into the kingdom to gather new stories from travelers—recordings of great deeds, surprising failures, and everyday happenings. The travelers would write their tales onto a big scroll called the **Training Scroll**, which grew longer and heavier with each new entry. And it was Modeller’s job to make sure that no matter how large the scroll became, the library remained tidy and accessible to all.
