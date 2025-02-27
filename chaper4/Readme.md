@@ -68,26 +68,20 @@ The forest rejoiced, for the Sacred Grove had finally shared its secret. And fro
 ## References
 
 1. **LeCun, Y., Bengio, Y., & Hinton, G. (2015).** Deep learning. *Nature, 521*(7553), 436–444.  
-   [https://doi.org/10.1038/nature14539](https://doi.org/10.1038/nature14539)  
-   *(A foundational paper on deep learning, covering neural network architectures used in pattern recognition.)*
+
 
 2. **Do, Q., & Hasselmo, M. E. (2021).** Neural circuits and symbolic processing. *Neurobiology of Learning and Memory, 186*, 107552.  
-   [https://doi.org/10.1016/j.nlm.2021.107552](https://doi.org/10.1016/j.nlm.2021.107552)  
-   *(Explores the intersection of neural processing and symbolic transformations, relevant to Quirin's pattern recognition skills.)*
+
 
 3. **Amir, O., Tyomkin, L., & Hart, Y. (2022).** Adaptive search space pruning in complex strategic problems. *PLoS Computational Biology, 18*(8), e1010358.  
-   [https://doi.org/10.1371/journal.pcbi.1010358](https://doi.org/10.1371/journal.pcbi.1010358)  
-   *(Describes pruning techniques that refine search spaces, similar to Quirin’s method of optimizing the Enchanted Quill.)*
+
 
 4. **Burstein, Z., Reid, D. D., Thomas, P. J., & Cowan, J. D. (2023).** Pattern forming mechanisms of color vision. *Network Neuroscience, 7*(2), 679–711.  
-   [https://doi.org/10.1162/netn_a_00294](https://doi.org/10.1162/netn_a_00294)  
-   *(Investigates how neural networks interpret and generate color patterns, linking to Quirin's understanding of colors in the Sacred Grove.)*
+
 
 5. **Moutafis, P., Leng, M., & Kakadiaris, I. A. (2017).** An overview and empirical comparison of distance metric learning methods. *IEEE Transactions on Cybernetics, 47*(3), 612–625.  
-   [https://doi.org/10.1109/TCYB.2016.2521767](https://doi.org/10.1109/TCYB.2016.2521767)  
-   *(Covers different ways to measure similarity in datasets, which relates to Quirin's ability to compare new patterns against ancient designs.)*
+
 
 6. **Wu, J., Qian, X., & Wang, M. Y. (2019).** Advances in generative design. *Computer-Aided Design, 116*, 102733.  
-   [https://doi.org/10.1016/j.cad.2019.102733](https://doi.org/10.1016/j.cad.2019.102733)  
-   *(Explores the use of iterative model training in design and optimization, reflecting how the Enchanted Quill improves over time.)*
+
 
