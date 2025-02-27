@@ -176,7 +176,7 @@ def replace_with_g(string):
 
 # Generate random hex of a certain length—like picking random crayons from a big box
 def generate_random_hex(length):
-    if length <= 0:
+    if length &lt;= 0:
         # If we ask for 0 or negative, we say none
         return None
     num_bytes = (length + 1) // 2
@@ -191,7 +191,7 @@ def split_by_comma(input_string):
 # Let’s append a new line to a file, adding more magical words to the end
 def append_to_file(file_path, new_string):
     with open(file_path, 'a') as file:
-        file.write(new_string + '\n')
+        file.write(new_string + '\\n')
 
 # This makes a CSV-like line with a random private key, a replaced char, and an address
 def getCsvLine():
@@ -205,7 +205,7 @@ def getCsvLine():
 # We redefine this here just to ensure we’re consistent with file writing
 def append_to_file(file_path, new_string):
     with open(file_path, 'a') as file:
-        file.write(new_string + '\n')
+        file.write(new_string + '\\n')
 
 # Finding the midpoint between two 64-char hex strings (like drawing a line between two stars!)
 def midpoint_hex(hex1: str, hex2: str) -> str:
@@ -218,14 +218,14 @@ def midpoint_hex(hex1: str, hex2: str) -> str:
 def random_hex_between(start_hex: str, end_hex: str) -> str:
     start_int = int(start_hex, 16)
     end_int = int(end_hex, 16)
-    if start_int > end_int:
+    if start_int &gt; end_int:
         start_int, end_int = end_int, start_int
     random_int = random.randint(start_int, end_int)
     return f"{random_int:064X}"
 
 # Compare two big hex strings: returns 1 if A is bigger, else 0—like a quick “who’s taller?” check
 def compare_hex(A: str, B: str) -> int:
-    return 1 if int(A, 16) > int(B, 16) else 0
+    return 1 if int(A, 16) &gt; int(B, 16) else 0
 
 # This changes a Base58 Bitcoin address into hex so we can see under the hood
 def public_key_to_hex(public_key):
@@ -240,7 +240,7 @@ def public_key_to_hex(public_key):
         return f"Error: {e}"
 
 # This takes a 24-hex chunk (20 bytes + 4 checksum) and a version byte, and creates a Base58 address
-def hex_to_address(address_hex, version_byte=b'\x00'):
+def hex_to_address(address_hex, version_byte=b'\\x00'):
     try:
         hashed_pubkey_with_checksum = bytes.fromhex(address_hex)
         if len(hashed_pubkey_with_checksum) != 24:
@@ -250,5 +250,3 @@ def hex_to_address(address_hex, version_byte=b'\x00'):
         return base58_address.decode('utf-8')
     except Exception as e:
         return f"Error: {e}"
-
-
