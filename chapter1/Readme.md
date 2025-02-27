@@ -1,9 +1,9 @@
-# The Secret of Maribel the Mushroom
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/chapter1.png?raw=true" width="500">
 </p>
 
+
+# The Secret of Maribel the Mushroom
 
 Once upon a time in a lush, enchanted forest, there lived a clever little mushroom named Maribel. Maribel wasn’t an ordinary mushroom—she held a magical secret that only a few in the forest knew. Instead of growing just to blend into the forest floor, Maribel had the extraordinary ability to turn ordinary words into mysterious messages that no one could understand unless they had the right magical key.
 
