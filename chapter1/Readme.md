@@ -6,7 +6,7 @@
 
 
 
-*Let's gather our crayons and color in the “Certicom secp256k1” curve with these magical numbers!*
+*Let's gather our crayons and color in the “Certicom secp256k1” curve with magic!*
 
 ---
 
