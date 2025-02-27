@@ -23,3 +23,19 @@ Cycle after cycle, day after day, the Hex Oracle practiced diligently. It learne
 In that glorious moment, Tensorio recorded the final prophecy in his enchanted tome, and the whole kingdom erupted in celebration. The people learned that, with patience, careful guidance, and a little bit of magic, even the most mysterious puzzles could be solved, and balance restored to their wondrous land.
 
 The moral of the story is: perseverance and thoughtful care can transform even the simplest beginnings into magical triumphs.
+
+
+
+1. **Ben-Nun, T., & Hoefler, T. (2019).** *Demystifying parallel and distributed deep learning: An in-depth concurrency analysis.* ACM Computing Surveys, 52(4), Article 65, 1–43. DOI: [10.1145/3327757](https://doi.org/10.1145/3327757)
+
+2. **Chaudhari, P., Choromanska, A., Soatto, S., LeCun, Y., Baldassi, C., Borgs, C., ... & Zecchina, R. (2017).** *Entropy-SGD: Biasing gradient descent into wide valleys.* In *International Conference on Learning Representations (ICLR)*.
+
+3. **Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017).** *On calibration of modern neural networks.* In *Proceedings of the 34th International Conference on Machine Learning (ICML)* (pp. 1321–1330). PMLR.
+
+4. **Ioffe, S., & Szegedy, C. (2015).** *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* In *Proceedings of the 32nd International Conference on Machine Learning (ICML)* (Vol. 37, pp. 448–456).
+
+5. **Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017).** *ImageNet classification with deep convolutional neural networks.* Communications of the ACM, 60(6), 84–90. DOI: [10.1145/3065386](https://doi.org/10.1145/3065386)
+
+6. **LeCun, Y., Bengio, Y., & Hinton, G. (2015).** *Deep learning.* Nature, 521(7553), 436–444. DOI: [10.1038/nature14539](https://doi.org/10.1038/nature14539)
+
+7. **Sutskever, I., Vinyals, O., & Le, Q. V. (2014).** *Sequence to sequence learning with neural networks.* In *Advances in Neural Information Processing Systems, 27* (pp. 3104–3112).
