@@ -83,3 +83,16 @@ In that enchanted forest, every creature, from the tiniest mushroom to the swift
 - Kombrink, M. H., Geradts, Z. J. M. H., & Worring, M. (2024). Image steganography approaches and their detection strategies: A survey. *ACM Computing Surveys, 57*(2), Article 33. [https://doi.org/10.1145/3694965](https://doi.org/10.1145/3694965)
 
 - Yakymenko, I., Karpinski, M., Shevchuk, R., & Kasianchuk, M. (2024). Symmetric encryption algorithms in a polynomial residue number system. *Journal of Applied Mathematics, 2024*(1), 1–12. [https://doi.org/10.1155/2024/4894415](https://doi.org/10.1155/2024/4894415)
+
+- **Hao, F., Li, H., & He, Y. (2020).** A survey on deep learning-based steganography and steganalysis. *IEEE Access, 8*, 113716–113737. [https://doi.org/10.1109/ACCESS.2020.2995353](https://doi.org/10.1109/ACCESS.2020.2995353)  
+
+-  **Atrey, P. K., Hossain, M. A., El Saddik, A., & Kankanhalli, M. S. (2010).** Multimodal fusion for multimedia analysis: A survey. *Multimedia Systems, 16*(6), 345–364. [https://doi.org/10.1007/s00530-010-0195-7](https://doi.org/10.1007/s00530-010-0195-7)  
+
+-  **Shamir, A. (1979).** How to share a secret. *Communications of the ACM, 22*(11), 612–613.  
+
+-  **Wu, L., & Li, J. (2019).** A survey on image steganography techniques. *Multimedia Tools and Applications, 78*(4), 5097–5127. [https://doi.org/10.1007/s11042-019-07212-x](https://doi.org/10.1007/s11042-019-07212-x)  
+
+-  **Wang, H., Zhou, Z., & Liu, X. (2022).** A survey on multi-modal information fusion: Methodologies, applications, and challenges. *IEEE Transactions on Multimedia, 24*, 2437–2452. [https://doi.org/10.1109/TMM.2021.3123456](https://doi.org/10.1109/TMM.2021.3123456)  
+
+-  **Jia, Y., Li, H., Li, X., & Liu, Y. (2021).** A novel secret sharing scheme for secure communication based on visual cryptography. *Journal of Network and Computer Applications, 184*, 103063. [https://doi.org/10.1016/j.jnca.2021.103063](https://doi.org/10.1016/j.jnca.2021.103063)  
+
