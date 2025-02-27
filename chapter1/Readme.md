@@ -1,5 +1,11 @@
 # A Simple Guide to Cryptoland  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/chapter1.png?raw=true" width="500">
+</p>
+
+
+
 *Explore how big numbers, secret keys, and magical math keep our treasures safe!*
 
 ---
