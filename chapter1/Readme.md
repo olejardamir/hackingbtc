@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/chapter1.png?raw=true" width="500">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/ch1a.webp?raw=true" width="500">
 </p>
-
 
 # The Secret of Maribel the Mushroom
 
@@ -65,4 +64,6 @@ And so, under the gentle watch of the ancient oak and the sparkling gaze of the 
 
 In that enchanted forest, every creature, from the tiniest mushroom to the swiftest sprite, played a vital role in the eternal tapestry of secrets and wonder, ensuring that the magic of their world would endure for all time.
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/chapter1.png?raw=true" width="500">
+</p>
