@@ -26,6 +26,12 @@ The moral of the story is: perseverance and thoughtful care can transform even t
 
 
 
+
+
+
+
+
+
 1. **Ben-Nun, T., & Hoefler, T. (2019).** *Demystifying parallel and distributed deep learning: An in-depth concurrency analysis.* ACM Computing Surveys, 52(4), Article 65, 1–43. DOI: [10.1145/3327757](https://doi.org/10.1145/3327757)
 
 2. **Chaudhari, P., Choromanska, A., Soatto, S., LeCun, Y., Baldassi, C., Borgs, C., ... & Zecchina, R. (2017).** *Entropy-SGD: Biasing gradient descent into wide valleys.* In *International Conference on Learning Representations (ICLR)*.
