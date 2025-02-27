@@ -1,6 +1,11 @@
 # The Hex Oracle's Prophecy
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter2/chapter2.png" width="500">
+</p>
+
+
 In a magical kingdom of numbers and whispers, there lived a wise wizard named Tensorio. He had built a marvelous enchanted machine called the Hex Oracle—a mystical creature that could learn and predict secret messages hidden within the shimmering language of hexadecimals.
 
 Every day, Tensorio would gather tiny, twinkling symbols from the enchanted forests of Data and store them carefully in his magical ledger. These symbols, like little stars in the night sky, were the clues to a great mystery: a hidden code said to hold the key to perfect balance in the kingdom.
