@@ -61,6 +61,24 @@ Through countless days and nights, Modeller’s diligence kept the Transformer A
 
 ---
 
-## The Moral
+## References
 
-In the end, the people of the kingdom learned that **patience, balance, and careful organization** can help even the largest libraries grow in a way that benefits everyone. By **pruning** what’s unneeded and using **just the right spells**, we can nurture knowledge without letting it overwhelm us. After all, every story—no matter how big or small—has a place in the magical tapestry of learning.
+
+1. **Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017).** Attention is all you need. In *Advances in Neural Information Processing Systems* (pp. 5998–6008).  
+   [Link](https://papers.nips.cc/paper/7181-attention-is-all-you-need)
+
+2. **Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020).** Language models are few-shot learners. *Advances in Neural Information Processing Systems, 33*, 1877–1901.  
+   [Link](https://arxiv.org/abs/2005.14165)
+
+3. **Cheng, Y., Wang, D., Zhou, P., & Zhang, T. (2018).** Model compression and acceleration for deep neural networks: The principles, progress, and challenges. *IEEE Signal Processing Magazine, 35*(1), 126–136. DOI: [10.1109/MSP.2017.2744880](https://doi.org/10.1109/MSP.2017.2744880)
+
+4. **Hu, E., Shen, Y., Wallis, C., Allen-Zhu, Z., Li, Y., Wang, L., ... & Chen, W. (2021).** LoRA: Low-Rank Adaptation of Large Language Models. *arXiv preprint arXiv:2106.09685.*  
+   [Link](https://arxiv.org/abs/2106.09685)
+
+5. **Jacob, B., Kligys, S., Chen, B., Zhu, M., Tang, M., Howard, A., ... & Adam, H. (2018).** Quantization and training of neural networks for efficient integer-arithmetic-only inference. In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (pp. 2704–2713).  
+   [Link](https://doi.org/10.1109/CVPR.2018.00291)
+
+6. **Niu, F., Recht, B., Re, C., & Wright, S. J. (2011).** Hogwild!: A lock-free approach to parallelizing stochastic gradient descent. In *Advances in Neural Information Processing Systems* (pp. 693–701).  
+   [Link](https://papers.nips.cc/paper/2011/hash/4ac0e46b39bcae1d23d4c2e40d2bb45f-Abstract.html)
+
+7. **Khan, S., Naseer, M., Hayat, M., Zamir, S. W., Khan, F. S., & Shah, M. (2022).** Transformers in vision: A survey. *ACM Computing Surveys, 55*(5), 1–39. DOI: [10.1145/3536076](https://doi.org/10.1145/3536076)
