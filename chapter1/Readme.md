@@ -67,3 +67,19 @@ In that enchanted forest, every creature, from the tiniest mushroom to the swift
 <p align="center">
   <img src="https://raw.githubusercontent.com/olejardamir/hackingbtc/refs/heads/main/chapter1/chapter1.png?raw=true" width="500">
 </p>
+
+
+---
+## References
+
+- Akwirry, B., Bessis, N., Malik, H., & McHale, S. (2022). A multi-tier trust-based security mechanism for vehicular ad-hoc network communications. *Sensors, 22*(21), 8285. [https://doi.org/10.3390/s22218285](https://doi.org/10.3390/s22218285)
+
+- Cohn-Gordon, K., Cremers, C., Dowling, B., Garratt, L., & Stebila, D. (2020). A formal security analysis of the Signal messaging protocol. *Journal of Cryptology, 33*(4), 1914–1983. [https://doi.org/10.1007/s00145-020-09360-1](https://doi.org/10.1007/s00145-020-09360-1)
+
+- Jan, A., Parah, S. A., Hussan, M., & Malik, B. A. (2022). Double layer security using crypto-stego techniques: A comprehensive review. *Health Technology, 12*(1), 9–31. [https://doi.org/10.1007/s12553-021-00602-1](https://doi.org/10.1007/s12553-021-00602-1)
+
+- Johansen, C., Mujaj, A., Arshad, H., & Noll, J. (2021). The Snowden phone: A comparative survey of secure instant messaging mobile applications. *Security and Communication Networks, 2021*(2), 1–30. [https://doi.org/10.1155/2021/9965573](https://doi.org/10.1155/2021/9965573)
+
+- Kombrink, M. H., Geradts, Z. J. M. H., & Worring, M. (2024). Image steganography approaches and their detection strategies: A survey. *ACM Computing Surveys, 57*(2), Article 33. [https://doi.org/10.1145/3694965](https://doi.org/10.1145/3694965)
+
+- Yakymenko, I., Karpinski, M., Shevchuk, R., & Kasianchuk, M. (2024). Symmetric encryption algorithms in a polynomial residue number system. *Journal of Applied Mathematics, 2024*(1), 1–12. [https://doi.org/10.1155/2024/4894415](https://doi.org/10.1155/2024/4894415)
